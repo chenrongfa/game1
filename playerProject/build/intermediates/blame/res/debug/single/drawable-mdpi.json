@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\Game\\playerProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\work\\Game\\playerProject\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\playerProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\robot.png",
+        "source": "D:\\work\\Game\\playerProject\\src\\main\\res\\drawable-mdpi\\robot.png"
+    }
+]

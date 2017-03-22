@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/chen/yy/com/game/SurfaceViewTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitmapMovie/src/main/java/com/bm/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitmapMovie/src/main/java/com/bm/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bitmapProject/src/main/java/com/bp/MySurfaceView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/clipBitmapMovie/src/main/java/com/cbm/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clipBitmapMovie/src/main/java/com/cbm/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameMovie/src/main/java/com/fm/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameMovie/src/main/java/com/fm/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/import-summary.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mediaPlayerProject/src/main/java/com/mpp/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moreRectCollision/src/main/java/com/mrc/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/Boom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/Bullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/GameBg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/GameMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/MySurfaceView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planeGame/src/main/java/com/pg/Player.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/planteGame/src/main/java/chen/yy/com/myapplication/Boss.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playerProject/src/main/java/com/pp/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playerProject/src/main/java/com/pp/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rectCollision/src/main/java/com/rc/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regionCollision/src/main/java/com/rc/MySurfaceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/soundPoolProject/src/main/java/com/spp/MySurfaceView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

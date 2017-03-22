@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\Game\\soundPoolProject\\build\\intermediates\\res\\merged\\debug\\raw\\himi_long.mid",
+        "source": "D:\\work\\Game\\soundPoolProject\\src\\main\\res\\raw\\himi_long.mid"
+    },
+    {
+        "merged": "D:\\work\\Game\\soundPoolProject\\build\\intermediates\\res\\merged\\debug\\raw\\himi_short.ogg",
+        "source": "D:\\work\\Game\\soundPoolProject\\src\\main\\res\\raw\\himi_short.ogg"
+    }
+]

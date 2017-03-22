@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bitmapMovie" />
+            <option value="$PROJECT_DIR$/bitmapProject" />
+            <option value="$PROJECT_DIR$/clipBitmapMovie" />
+            <option value="$PROJECT_DIR$/frameMovie" />
+            <option value="$PROJECT_DIR$/mediaPlayerProject" />
+            <option value="$PROJECT_DIR$/moreRectCollision" />
+            <option value="$PROJECT_DIR$/planeGame" />
+            <option value="$PROJECT_DIR$/planteGame" />
+            <option value="$PROJECT_DIR$/playerProject" />
+            <option value="$PROJECT_DIR$/rectCollision" />
+            <option value="$PROJECT_DIR$/regionCollision" />
+            <option value="$PROJECT_DIR$/sharedPreferenceProject" />
+            <option value="$PROJECT_DIR$/soundPoolProject" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

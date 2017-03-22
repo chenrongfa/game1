@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chen.yy.com.myapplication.PlaneGameSurface
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"></chen.yy.com.myapplication.PlaneGameSurface>

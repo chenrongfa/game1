@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\work\\Game\\sharedPreferenceProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\work\\Game\\sharedPreferenceProject\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 60,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 60,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "D:\\work\\Game\\sharedPreferenceProject\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]

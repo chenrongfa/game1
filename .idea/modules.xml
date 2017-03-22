@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game.iml" filepath="$PROJECT_DIR$/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapMovie/bitmapMovie.iml" filepath="$PROJECT_DIR$/bitmapMovie/bitmapMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapProject/bitmapProject.iml" filepath="$PROJECT_DIR$/bitmapProject/bitmapProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clipBitmapMovie/clipBitmapMovie.iml" filepath="$PROJECT_DIR$/clipBitmapMovie/clipBitmapMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frameMovie/frameMovie.iml" filepath="$PROJECT_DIR$/frameMovie/frameMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaPlayerProject/mediaPlayerProject.iml" filepath="$PROJECT_DIR$/mediaPlayerProject/mediaPlayerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moreRectCollision/moreRectCollision.iml" filepath="$PROJECT_DIR$/moreRectCollision/moreRectCollision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planeGame/planeGame.iml" filepath="$PROJECT_DIR$/planeGame/planeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planteGame/planteGame.iml" filepath="$PROJECT_DIR$/planteGame/planteGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerProject/playerProject.iml" filepath="$PROJECT_DIR$/playerProject/playerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rectCollision/rectCollision.iml" filepath="$PROJECT_DIR$/rectCollision/rectCollision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regionCollision/regionCollision.iml" filepath="$PROJECT_DIR$/regionCollision/regionCollision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedPreferenceProject/sharedPreferenceProject.iml" filepath="$PROJECT_DIR$/sharedPreferenceProject/sharedPreferenceProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soundPoolProject/soundPoolProject.iml" filepath="$PROJECT_DIR$/soundPoolProject/soundPoolProject.iml" />
+    </modules>
+  </component>
+</project>

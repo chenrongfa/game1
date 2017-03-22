@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\work\\Game\\mediaPlayerProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\work\\Game\\mediaPlayerProject\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 55,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 60,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "D:\\work\\Game\\mediaPlayerProject\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            }
+        ]
+    }
+]

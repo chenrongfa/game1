@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\player.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gamelost.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\gamelost.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_press.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\button_press.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bullet.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\bullet.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\boos_boom.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\boos_boom.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enemy_duck.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\enemy_duck.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gamewin.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\gamewin.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enemy_fly.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\enemy_fly.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\boosbullet.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\boosbullet.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\boom.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\boom.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\enemy_pig.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\enemy_pig.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hp.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\hp.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\work\\Game\\planeGame\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bullet_enemy.png",
+        "source": "D:\\work\\Game\\planeGame\\src\\main\\res\\drawable-mdpi\\bullet_enemy.png"
+    }
+]
